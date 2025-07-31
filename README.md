@@ -30,11 +30,11 @@
 
       ├── Scripts/ # Armazenamento dos scripts do projeto
 
-        ├── Player # Scripts do jogador
+        ├── Player/ # Scripts do jogador
 
-        ├── Enemies # Scripts dos inimigos
+        ├── Enemies/ # Scripts dos inimigos
 
-        ├── Misc # Scripts do jogo em si / Interface do usuário, cenário, etc
+        ├── Misc/ # Scripts do jogo em si / Interface do usuário, cenário, etc
       
       ├── Assets/ # Armazenamento dos sprites
   
@@ -43,6 +43,8 @@
         ├── Enemies/ # Sprites dos inimigos
                 
         ├── Misc/ # Projéteis, cenário e etc.
+
+        ├── Audio/ # Arquivos de áudio
 
 ---
 ## **3. Etapas de Entrega**
