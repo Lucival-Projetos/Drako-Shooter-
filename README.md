@@ -27,6 +27,14 @@
 ### **2.2 Arquitetura do Código**
 
     DrakoS/
+
+      ├── Scripts/ # Armazenamento dos scripts do projeto
+
+        ├── Player # Scripts do jogador
+
+        ├── Enemies # Scripts dos inimigos
+
+        ├── Misc # Scripts do jogo em si / Interface do usuário, cenário, etc
       
       ├── Assets/ # Armazenamento dos sprites
   
