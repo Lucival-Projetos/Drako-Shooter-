@@ -28,13 +28,13 @@
 
  > DrakoS/
     
-    ├── assets/ # Armazenamento dos sprites
+    ├── Assets/ # Armazenamento dos sprites
 
-    ├── Player/ # Sprites do Jogador
+      ├── Player/ # Sprites do Jogador
               
-    ├── Enemies/ # Sprites dos inimigos
+      ├── Enemies/ # Sprites dos inimigos
               
-    ├── Misc/ # Projéteis, cenário e etc.
+      ├── Misc/ # Projéteis, cenário e etc.
 
 ---
 ## **3. Etapas de Entrega**
