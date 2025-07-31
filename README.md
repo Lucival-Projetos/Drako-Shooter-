@@ -49,14 +49,13 @@
 ---
 ## **3. Etapas de Entrega**
 ### **Etapa 1: Protótipo básico (mês 1-2)**
+  - Menus simples;
   - Sistema de movimentação completo (todas as direções);
-  - implementação de inimigos e sistema de PV (sem placeholder ainda);
-  - Sprites do player e dos inimigos implementados como placeholder.
+  - Sprites do player implementados.
 ### **Etapa 2: Funcionamento pleno (mês 3-4)**
-  - Projéteis e placeholder para o PV;
+  - Projéteis e sistema para o PV;
   - Hordas de inimigos (fases);
   - Sistema de pontuação;
-  - Menus simples;
   - Sistema de Power-Ups.
 ### **Etapa 3: Polimento (mês 5-6)**
   - Efeitos Sonoros;
@@ -66,4 +65,4 @@
  
 ## **4. Requisitos técnicos**
 ```
-Pygame== 2.6.0
+  
