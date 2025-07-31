@@ -28,29 +28,29 @@
 '''
 > DrakoS/
 >
-├── main.py # Ponto de entrada (inicialização do jogo)
+  ├── main.py # Ponto de entrada (inicialização do jogo)
 
-├── game.py # Lógica principal (estado do jogo, loop principal)
+  ├── game.py # Lógica principal (estado do jogo, loop principal)
 
-├── player.py # Definição da classe Player e seus atributos
+  ├── player.py # Definição da classe Player e seus atributos
 
-├── enemy.py # Definição de classe dos inimigos 
+  ├── enemy.py # Definição de classe dos inimigos 
 
-├── projectile.py # Definição da classe dos projéteis
+  ├── projectile.py # Definição da classe dos projéteis
 
-├── ui/ # Interface do usuário
+  ├── ui/ # Interface do usuário
 
-│   ├── render.py # Renderização gráfica (Pygame)
+  │   ├── render.py # Renderização gráfica (Pygame)
 
-│   └── sounds.py # Gerenciamento de áudio
+  │   └── sounds.py # Gerenciamento de áudio
 
-└── utils/ # Utilitários
+  └── utils/ # Utilitários
 
-    ├── config.py # Constantes (cores, tamanhos)
+      ├── config.py # Constantes (cores, tamanhos)
     
-    └── scores.py # Manipulação da pontuação do player
+      └── scores.py # Manipulação da pontuação do player
     
-├── assets/ # Armazenamento dos sprites
+  ├── assets/ # Armazenamento dos sprites
 
               ├── Player/ # Sprites do Jogador
               
