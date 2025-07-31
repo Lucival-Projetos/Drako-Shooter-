@@ -26,15 +26,15 @@
 
 ### **2.2 Arquitetura do Código**
 
- > DrakoS/
-    
-    ├── Assets/ # Armazenamento dos sprites
-
-      ├── Player/ # Sprites do Jogador
-              
-      ├── Enemies/ # Sprites dos inimigos
-              
-      ├── Misc/ # Projéteis, cenário e etc.
+    DrakoS/
+      
+      ├── Assets/ # Armazenamento dos sprites
+  
+        ├── Player/ # Sprites do Jogador
+                
+        ├── Enemies/ # Sprites dos inimigos
+                
+        ├── Misc/ # Projéteis, cenário e etc.
 
 ---
 ## **3. Etapas de Entrega**
