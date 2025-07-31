@@ -25,8 +25,10 @@
   - Comandos de voz opcionais para dar início ao jogo, utilizando um comando pré-definido.
 
 ### **2.2 Arquitetura do Código**
+'''
 > DrakoS/
-> ├── main.py # Ponto de entrada (inicialização do jogo)
+>
+├── main.py # Ponto de entrada (inicialização do jogo)
 
 ├── game.py # Lógica principal (estado do jogo, loop principal)
 
@@ -55,7 +57,7 @@
               ├── Enemies/ # Sprites dos inimigos
               
               ├── Misc/ # Projéteis, cenário e etc.
-              
+'''
 ---
 ## **3. Etapas de Entrega**
 ### **Etapa 1: Protótipo básico (mês 1-2)**
