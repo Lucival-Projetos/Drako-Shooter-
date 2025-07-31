@@ -1,8 +1,8 @@
 # **Documentação do Projeto: Drako-Shooter com Pygame.**
 ---
 ## **1.Visão Geral**
-**Tecnologias Utilizadas:** Python + Pygame + Vosk(com chances de mudança);
-**Descrição:** Desenvolvimento de um jogo no estilo space invaders, com mecânicas simples, o jogo se passa em um ambiente devastado e com temática pós apocalíptica, ond eo jogador assume o papel de um piloto com o objetivo de vencer a tirania das máquinas que oprimem a humanidade, enfrentando inimigos e chefes poderosos até alcançar seu objetivo.
+**Tecnologias Utilizadas:** Unity 5;
+**Descrição:** Desenvolvimento de um jogo no estilo space invaders, com mecânicas simples, o jogo se passa em um ambiente devastado e com temática pós apocalíptica, onde o jogador assume o papel de um piloto com o objetivo de vencer a tirania das máquinas que oprimem a humanidade, enfrentando inimigos e chefes poderosos até alcançar seu objetivo.
 **Objetivo:** Apresentar um jogo com mecânicas simples(movimentação, inimigos, projéteis, batalhas de chefe, sistema de melhorias.) e com estética reconhecível.
 ## **2. Descrição Detalhada do Projeto**
 - **O que é o gênero "Space Invaders"?**
@@ -10,7 +10,7 @@
 ### **2.1 Funcionalidades Principais**
 - **Motor do Jogo:**
   - Sistemas de Upgrades;
-  - Movimentação em todas as direções primárias (cima, baixo, direita, esquerda);
+  - Movimentação para as direções primárias (direita, esquerda);
   - Projéteis (tanto inimigos quanto lançados pelo jogador);
   - Sistema de aumento de dificuldade por nível e sistema de pontuação;
   - Detecção de colisões e sistema de PV(pontos de vida) para jogadores e inimigos.
