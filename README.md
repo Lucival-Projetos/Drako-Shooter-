@@ -27,28 +27,6 @@
 ### **2.2 Arquitetura do Código**
 
  DrakoS/
-
-  ├── main.py # Ponto de entrada (inicialização do jogo)
-
-  ├── game.py # Lógica principal (estado do jogo, loop principal)
-
-  ├── player.py # Definição da classe Player e seus atributos
-
-  ├── enemy.py # Definição de classe dos inimigos 
-
-  ├── projectile.py # Definição da classe dos projéteis
-
-  ├── ui/ # Interface do usuário
-
-  │   ├── render.py # Renderização gráfica (Pygame)
-
-  │   └── sounds.py # Gerenciamento de áudio
-
-  └── utils/ # Utilitários
-
-    ├── config.py # Constantes (cores, tamanhos)
-    
-    └── scores.py # Manipulação da pontuação do player
     
   ├── assets/ # Armazenamento dos sprites
 
