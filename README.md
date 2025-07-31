@@ -3,7 +3,7 @@
 ## **1.Visão Geral**
 **Tecnologias Utilizadas:** Unity 5;
 
-**Descrição:** Desenvolvimento de um jogo no estilo space invaders, com mecânicas simples, o jogo se passa em um ambiente devastado e com temática pós apocalíptica, onde o jogador assume o papel de um piloto com o objetivo de vencer a tirania das máquinas que oprimem a humanidade, enfrentando inimigos e chefes poderosos até alcançar seu objetivo.
+**Descrição:** Desenvolvimento de um jogo no estilo space invaders, com mecânicas simples, o jogo se passa em um ambiente devastado e com temática pós apocalíptica e desenhado quase inteiramente em preto e branco para uma mensagem mais acabada e sem vida, onde o jogador assume o papel de um piloto com o objetivo de vencer a tirania das máquinas que oprimiram a humanidade, sendo ele o último humano vivo, enfrentando inimigos e chefes poderosos até alcançar seu objetivo, a vingança, sem redenção ou perdão.
 
 **Objetivo:** Apresentar um jogo com mecânicas simples(movimentação, inimigos, projéteis, batalhas de chefe, sistema de melhorias.) e com estética reconhecível.
 ## **2. Descrição Detalhada do Projeto**
