@@ -26,8 +26,7 @@
 
 ### **2.2 Arquitetura do Código**
 > DrakoS/
-> 
-├── main.py # Ponto de entrada (inicialização do jogo)
+> ├── main.py # Ponto de entrada (inicialização do jogo)
 
 ├── game.py # Lógica principal (estado do jogo, loop principal)
 
