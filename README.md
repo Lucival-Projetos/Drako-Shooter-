@@ -26,9 +26,9 @@
 
 ### **2.2 Arquitetura do Código**
 
- DrakoS/
+ > DrakoS/
     
-  ├── assets/ # Armazenamento dos sprites
+    ├── assets/ # Armazenamento dos sprites
 
     ├── Player/ # Sprites do Jogador
               
