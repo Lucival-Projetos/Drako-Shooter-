@@ -46,17 +46,17 @@
 
   └── utils/ # Utilitários
 
-      ├── config.py # Constantes (cores, tamanhos)
+    ├── config.py # Constantes (cores, tamanhos)
     
-      └── scores.py # Manipulação da pontuação do player
+    └── scores.py # Manipulação da pontuação do player
     
   ├── assets/ # Armazenamento dos sprites
 
-              ├── Player/ # Sprites do Jogador
+    ├── Player/ # Sprites do Jogador
               
-              ├── Enemies/ # Sprites dos inimigos
+    ├── Enemies/ # Sprites dos inimigos
               
-              ├── Misc/ # Projéteis, cenário e etc.
+    ├── Misc/ # Projéteis, cenário e etc.
 
 ---
 ## **3. Etapas de Entrega**
