@@ -65,4 +65,4 @@
  
 ## **4. Requisitos técnicos**
 ```
-  UnityPlayer.dll
+  UnityPlayer.dll + todos os arquivos anexados
